@@ -88,10 +88,6 @@ Sistema completo para empresas de impressão:
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celoneto&layout=compact&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=celoneto&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ## 📫 Contato
