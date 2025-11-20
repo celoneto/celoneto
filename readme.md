@@ -97,7 +97,6 @@ Sistema completo para empresas de impressão:
 ## 📫 Contato
 
 - 📧 Email: **celoneto.1995@gmail.com**
-[- 💼 Portfólio: **seusite.com**](url)
 - 🔗 LinkedIn: **linkedin.com/in/marcelo-pinto-neto**
 
 ---
