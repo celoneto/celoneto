@@ -43,7 +43,7 @@ Site institucional profissional para advogados
 
 ### 🔹 **Sunba Energy – Energia Solar (em construção)**
 Landing page moderna + identidade visual  
-🔗 https://sunbaenergy.vercel.app/
+🔗 [https://sunbaenergy.vercel.app/](https://sunba-rho.vercel.app/)
 
 ### 🔹 **SaaS – Mundial Impressoras (em construção)**
 Sistema completo para empresas de impressão:
@@ -89,7 +89,7 @@ Sistema completo para empresas de impressão:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=celoneto&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
